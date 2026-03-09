@@ -7,4 +7,4 @@
 2. `npm run dev`
 
 Демо-версія проекту:
-[https://homework-41-pink.vercel.app/](https://homework-42-delta.vercel.app/)
+https://homework-42-delta.vercel.app/
